@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adyson da Silva Moreira",
+      "email": "adyson_sm@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia",
+      "email": "maria@bol.com"
+    },
+    {
+      "name": "ADYSON DA SILVA MOREIRA",
+      "email": "adyson.sm@gmail.com",
+      "id": 3
+    }
+  ]
+}
